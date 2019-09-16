@@ -17,4 +17,12 @@
   {
   webBrowser1.Stop();
   }
-  
+} 
+private void button2_Click(object sender, EventArgs e)
+{
+ if (webBrowser1.CanGoBack)
+   {
+   
+     webBrowser1.GoBack();
+   }
+ }
