@@ -1,0 +1,20 @@
+ {
+  string WebPage = texBox1.Text.Trim();
+  webBrowser1.Navigate(WebPage); 
+ }
+  
+  private void button1_Click(object sender, EventArgs e)
+  {
+  webBrowser1.GoHome();
+  }
+  
+  private void button2_Click(object sender, EventArgs e)
+  {
+  webBrowser1.Refresh();
+  }
+  
+  private void button3_Click(object sender, EventArgs e)
+  {
+  webBrowser1.Stop();
+  }
+  
