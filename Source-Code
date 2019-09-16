@@ -30,3 +30,12 @@ private void button2_Click(object sender, EventArgs e)
  {
    webBrowser1.stop();
  }
+ 
+ private void button3_Click(object sender, EventArgs e)
+ }
+  if (webBrowser1.CanGooforward)
+  }
+  
+     webBrowser1.GoForward();
+  {
+  }
