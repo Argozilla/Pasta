@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to FrickFad
 
-You can use the [editor on GitHub](https://github.com/MethodFarkle/FrickFad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+FrickFad is a web browser project to be released to the public, it's mainly based for YMSH but anyone could use it, it's been developed with Visual Studio Community 2019 as an open source web project. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FrickFad won't collect data, we don't do that here at YMSH. So feel free to browse safely without a corporation-owned web browser.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### A message from the creator
 
-# Header 1
-## Header 2
-### Header 3
+Hi, I am MethodFarkle, you can call me Barkle. I created this web browser because I thought it would be good for the rest of the YMSH. And possibly other people out there, I hope you put this to good use. 
 
-- Bulleted
-- List
+### Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MethodFarkle/FrickFad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any trouble, you can contact us through our issues page and we will do our best to fix the problem.
