@@ -32,10 +32,31 @@ private void button2_Click(object sender, EventArgs e)
  }
  
  private void button3_Click(object sender, EventArgs e)
- }
+ {
   if (webBrowser1.CanGooforward)
-  }
+  {
   
      webBrowser1.GoForward();
-  {
   }
+  
+  private void button4_Click(object sender, EventArgs e)
+  {
+   webBrowser1.Refresh();
+   
+  }
+  
+ namespace browser
+ {
+ 
+    public partial class Form1 : Form
+    {
+       public Form1()
+       {
+        InitializeComponent();
+        }
+        
+        private void button6_Click(object sender, EventArgs e)
+        {
+        
+          string Webpage = textBox 1.Text.Trim();
+          webBrowser1.Navigate(WebPage(;
