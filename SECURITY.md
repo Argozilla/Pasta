@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This is the Security Policy for FrickFad, here you will find what you need to know.
+This is the Security Policy for PASTA, here you will find what you need to know.
 
 | Version | Supported          |
 | ------- | ------------------ |
