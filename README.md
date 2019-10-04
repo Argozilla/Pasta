@@ -6,7 +6,7 @@ Pasta won't collect data, we don't do that here at YMSH. So feel free to browse 
 
 ### A message from the creator
 
-Hi, I am MethodFarkle, you can call me Barkle. I created this web browser because I thought it would be good for the rest of the YMSH. And possibly other people out there, I hope you put this to good use. 
+Hi, I am SomnusLux, you can call me Somnus. I created this web browser because I thought it would be good for the rest of the YMSH. And possibly other people out there, I hope you put this to good use.  And we have not yet made Pasta plug-in compatible, so plug-ins like Java won't work. In Pasta's lifetime we will do our best to find out a way to use Java within Pasta. 
 
 ### Support
 
