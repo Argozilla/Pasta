@@ -13,7 +13,6 @@ This is the Security Policy for PASTA, here you will find what you need to know.
 
 ## Reporting a Vulnerability
 
-Finding a vulnerability can be scary, if you find a vulnerability you can go to the "Issues" page. We do not accept emails because of a vulnerability,
-all vulunerabilities or issues must be reported in the "Issues" page so that we can really see it..
-
+If you find a vulnerability you can go to the "Issues" page. We do not accept emails regarding  a vulnerability,
+all vulunerabilities or issues must be reported in the "Issues" page so that we can really see it.
 
